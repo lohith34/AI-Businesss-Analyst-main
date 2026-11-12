@@ -12,8 +12,6 @@ An LLM-powered analytics agent that turns natural-language questions into SQL, r
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Built by Ishant Yadav**
-
 </div>
 
 ---
